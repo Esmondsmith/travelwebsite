@@ -73,7 +73,7 @@ const Footer = () => {
                 className='social-icon-link facebook'
                 to='/'
                 target='_blank'
-                aria-lablel='Facebook'
+                aria-label='Facebook'
                 >
                     <i class="fa-brands fa-facebook"></i>
                 </Link>
@@ -81,7 +81,7 @@ const Footer = () => {
                 className='social-icon-link instagram'
                 to='/'
                 target='_blank'
-                aria-lablel='Instagram'
+                aria-label='Instagram'
                 >
                     <i class="fa-brands fa-instagram"></i>
                 </Link>
@@ -89,7 +89,7 @@ const Footer = () => {
                 className='social-icon-link youtube'
                 to='/'
                 target='_blank'
-                aria-lablel='Youtube'
+                aria-label='Youtube'
                 >
                     <i class="fa-brands fa-youtube"></i>
                 </Link>
@@ -97,7 +97,7 @@ const Footer = () => {
                 className='social-icon-link twitter'
                 to='/'
                 target='_blank'
-                aria-lablel='Twitter'
+                aria-label='Twitter'
                 >
                     <i class="fa-brands fa-twitter"></i>
                 </Link>
